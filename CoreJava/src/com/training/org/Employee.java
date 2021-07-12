@@ -6,6 +6,7 @@ public class Employee {
 		// TODO Auto-generated method stub
 
 			System.out.println("This is sample project.");
+			System.out.println("Another modified message.");
 	}
 
 }
